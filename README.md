@@ -12,7 +12,8 @@ Please see the requirements below. When finished, please contact us with your su
 - Minimum Requirements Create a listing of posts from the supplied api. (https://jsonplaceholder.typicode.com/posts ).
 - Each post in the list should link to a detail page for that post.
 - It should be responsive.
-- The UI is entirely up to you, feel free to design it in any fashion you wish. It's not a UX test so a usable UI is sufficient.
+- The UI should be well designed with respect to basic UI alignment constraints and principals, 
+- Feel free to design components with your own understanding of UI-UX designing.
 
 # Bonus
 
